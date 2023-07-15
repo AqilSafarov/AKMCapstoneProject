@@ -7,7 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="731" alt="Screenshot 2023-07-15 232232" src="https://github.com/AqilSafarov/AKMCapstoneProject/assets/75013710/2c3d72bb-c8cd-4f82-a094-c1b91cce4da2">
+<img width="601" alt="Screenshot 2023-07-15 231903" src="https://github.com/AqilSafarov/AKMCapstoneProject/assets/75013710/34730505-90ae-49b7-b2db-5a90c444edd3">
 
 
 The objective of this project was to develop a detection mechanism for brute force attacks using Splunk, a powerful security information and event management (SIEM) platform. The scope of the project focused specifically on identifying and mitigating brute force attacks against user accounts and passwords within an Active Directory Domain Services (AD DS) environment
@@ -22,8 +22,8 @@ The primary objective of this project was to enhance the security posture of the
 In an AD DS environment, where user accounts and passwords play a vital role in granting access to resources, detecting and mitigating brute force attacks is of paramount importance. The AD DS infrastructure forms the backbone of user authentication and authorization, making it a prime target for attackers seeking to exploit weak credentials. By effectively detecting and responding to brute force attacks, organizations can mitigate the risks associated with compromised user accounts, unauthorized access, and potential data breaches. Timely detection allows security teams to identify and neutralize attacks before they cause significant damage, protecting the organization's sensitive data, intellectual property, and reputation
 
 
-<img width="301" alt="Screenshot 2023-07-15 231903" src="https://github.com/AqilSafarov/AKMCapstoneProject/assets/75013710/34730505-90ae-49b7-b2db-5a90c444edd3">
 
+<img width="731" alt="Screenshot 2023-07-15 232232" src="https://github.com/AqilSafarov/AKMCapstoneProject/assets/75013710/2c3d72bb-c8cd-4f82-a094-c1b91cce4da2">
 
 ### Methodology and Approach
 To achieve the project objective, a systematic and comprehensive approach was adopted. The methodology involved the following key steps:
