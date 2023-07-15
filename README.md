@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://github.com/AqilSafarov/hgg/tree/master">Project Report and Slide</a></p>
+<p align="center"><a href="https://github.com/AqilSafarov/hgg/tree/master">Download project report and slide</a></p>
 
 
 
