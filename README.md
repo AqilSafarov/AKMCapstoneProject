@@ -1,6 +1,6 @@
 
-<p align="center"><a href="https://github.com/AqilSafarov/hgg/tree/master">Download project report and slide</a></p>
 
+<p align="center"><a href="https://github.com/AqilSafarov/hgg/tree/master">Download project report and slide</a></p>
 
 
 
@@ -34,7 +34,6 @@ To achieve the project objective, a systematic and comprehensive approach was ad
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
