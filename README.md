@@ -1,5 +1,5 @@
 
-
+<p align="right">(<a href="https://github.com/AqilSafarov/hgg/tree/master">Project Report and Slide</a>)</p>
 
 
 
@@ -35,7 +35,6 @@ To achieve the project objective, a systematic and comprehensive approach was ad
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="https://github.com/AqilSafarov/hgg/tree/master">back to top</a>)</p>
 
 
 
